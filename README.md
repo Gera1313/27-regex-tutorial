@@ -1,2 +1,2 @@
-# 27-regex-tutorial
+# 17-regex-tutorial
 Computer Science for JavaScript Challenge: Regex Tutorial
